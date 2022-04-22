@@ -1,0 +1,45 @@
+# Project exclude paths
+/.gradle/
+/Builders/Builders how it works/build/
+/Builders/Builders implementation/build/
+/Builders/Builders implementation/out/
+/Builders/Builders implementation/out/production/classes/
+/Builders/Function literals with receiver/build/
+/Builders/Html builders/build/
+/Builders/String and map builders/build/
+/Builders/The function apply/build/
+/Collections/All Any and other predicates/build/
+/Collections/Associate/build/
+/Collections/Compound tasks/build/
+/Collections/Filter map/build/
+/Collections/FlatMap/build/
+/Collections/Fold/build/
+/Collections/Getting used to new style/build/
+/Collections/GroupBy/build/
+/Collections/Introduction/out/
+/Collections/Introduction/out/production/classes/
+/Collections/Introduction/out/test/classes/
+/Collections/Max min/build/
+/Collections/Partition/build/
+/Collections/Sequences/build/
+/Collections/Sort/build/
+/Collections/Sum/build/
+/Generics/Generic functions/build/
+/Introduction/Hello, world/build/
+/Introduction/String templates/out/
+/Introduction/String templates/out/production/classes/
+/Properties/Delegates examples/out/
+/Properties/Delegates examples/out/production/classes/
+/Properties/Delegates examples/out/test/classes/
+/Properties/Delegates how it works/out/
+/Properties/Delegates how it works/out/production/classes/
+/Properties/Delegates how it works/out/test/classes/
+/Properties/Lazy property/out/
+/Properties/Lazy property/out/production/classes/
+/Properties/Lazy property/out/test/classes/
+/Properties/Properties/out/
+/Properties/Properties/out/production/classes/
+/Properties/Properties/out/test/classes/
+/util/build/
+/util/out/
+/util/out/production/classes/
